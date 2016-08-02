@@ -1,7 +1,6 @@
 title: Hello World
-date: 2013-12-25 00:23:23
-tags: ["Excertps"]
-cover: http://angular.angular-china.org/122c7107-a02b-4e01-9648-7937f645d9b2.png
+date: 2016-6-6 00:23:23
+tags: ["Excertps", "Hello"]
 ---
 Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
