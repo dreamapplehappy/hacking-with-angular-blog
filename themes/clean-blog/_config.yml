@@ -2,12 +2,13 @@
 menu:
   Home: /
   Archives: /archives
+  About: /about
   Github:
     url: https://github.com/hacking-with-angular
     icon: github
 
 # Title on top left of menu. Leave empty to use main blog title
-menu_title: iANGULAR
+menu_title: iAngular
 
 # favicon
 favicon: /favicon.ico
