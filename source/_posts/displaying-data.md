@@ -8,7 +8,7 @@ tags: ["Angular2"]
 
 因为我们的这一系列的文章都是使用的`TypeScript`所以在看下面的内容之前你最好可以看一下TypeScript或者ES6的类,它们的网址分别是[TypeScript][3],[ES6][4];如果以前你学过`Java`或者`C++`这种类似的面向对象的语言的话,那么学习这里的类就很轻松了;这里面的类基本上和那些语言中的类是相似的.
 
-上一节中我们在`app.component.ts`中导出了一个空的类,那么下面我们就要开始使填充它,让它变得丰满起来.首先我们给这个`AppComponent`类(组件)添加三个属性,分别是`name`,`age`,`fruit`;就像下面这样:
+上一节中我们在`app.component.ts`中导出了一个空的类,那么下面我们就要开始填充它,让它变得丰满起来.首先我们给这个`AppComponent`类(组件)添加三个属性,分别是`name`,`age`,`fruit`;就像下面这样:
 
 ```javascript
 export class AppComponent {
@@ -34,7 +34,7 @@ export class AppComponent {
     }
 }
 ```
-然后我们要修改我们的模板了,因为我们在模板中要使用较多的HTML,所以我们要使用反引号来包裹住我们我们的HTML片段;我们的装饰器函数如下所示:
+然后我们要修改我们的模板了,因为我们在模板中要使用较多的HTML,所以我们要使用反引号来包裹住我们的HTML片段;我们的装饰器函数如下所示:
 ```javascript
 @Component({
     selector: 'my-app',
